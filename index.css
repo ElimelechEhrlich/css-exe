@@ -1,0 +1,144 @@
+div {
+    border: 1px solid black;
+    background-color: #FFFFFF;
+    Width: 428px;
+    Height: 926px;
+    padding-top: 45px;
+    margin-left: 10px;
+    border-radius: 50px;
+    box-sizing: border-box;
+}
+
+#navigation-bar {
+    /* border: 1px solid black; */
+    width: 427.74090576171875px;
+    height: 54.75083541870117px;
+    margin-left: 0.129547119140625px;
+    margin-right: 0.129547119140625px;
+    box-sizing: border-box;
+}
+
+#a {
+    /* border: 1px solid black; */
+    width: 90.1107406616211px;
+    height: 90.1107406616211px;
+    margin-left: 40.4965826416014px;
+}
+
+#Frame-1171274877 {
+    width: 126px;
+    height: 61.12513732910156px;
+    margin-top: 9.13px;
+    margin-bottom: 22.83px;
+    margin-left: 40.4965826416014px;
+}
+
+.Transactions {
+    width: 229.26910400390625px;
+    height: 60.884742736816406px;
+    margin-left: 40.4965826416014px;
+    border-bottom-width: 0.48px;
+    border-style: dashed;
+
+}
+
+#mastercard {
+    /* border: 1px solid black; */
+    padding-top: 2.85px;
+    width: 119px;
+    height: 384px;
+    /* margin-top: 30.23px; */
+    /* margin-left: -66.47px; */
+    /* border-radius: 27.38px; */
+    display: inline-block;
+    box-sizing: border-box;
+
+
+}
+
+#right-block {
+    margin-top: 27.38px;
+    width: 280px;
+    display: inline-block;
+}
+
+#text_expense {
+    /* border: 1px solid black; */
+    display: inline-masonry;
+    font-size: 19.39px;
+    font-weight: 500;
+    font: medium;
+    letter-spacing: -0.47px;
+    width: 68px;
+    height: 27px;
+    padding-top: 3.805px;
+    margin-top: -26.5px;
+    margin-left: 27px;
+    box-sizing: border-box;
+    color: #7D73C3;
+}
+
+#card_send {
+    width: 18.25027847290039px;
+    height: 18.25027847290039px;
+    padding-top: 4.374860763549805px;
+    display: inline-block;
+    color: #7D73C3;
+
+}
+
+#expense {
+    /* border: 1px solid black; */
+    width: 95.37541961669922px;
+    height: 27px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+#text_income {
+    /* border: 1px solid black; */
+    display: inline-masonry;
+    font-size: 19.39px;
+    font-weight: 500;
+    font: larger;
+    letter-spacing: -0.47px;
+    width: 78px;
+    height: 27px;
+    padding-top: 3.805px;
+    margin-top: -26.8px;
+    margin-left: 27px;
+    box-sizing: border-box;
+    color: #3AC6D5;
+}
+
+#card_receive {
+    width: 18.25027847290039px;
+    height: 18.25027847290039px;
+    padding-top: 4.374860763549805px;
+    display: inline-block;
+    color: #3AC6D5;
+}
+
+#income {
+    /* border: 1px solid black; */
+    width: 105.37541961669922px;
+    height: 27px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+#frame3 {
+    width: 375.27130126953125;
+    height: 54.750831604003906;
+    opacity: 1;
+    margin-top: 24.57px;
+    margin-left: 13.245px;
+    margin-right: 13.245px;
+    padding-left: 90.6245803833008px;
+    padding-right: 90.6245803833008px;
+    padding-top: 13.87541580200195px;
+    padding-bottom: 13.87541580200195px;
+    border-radius: 18.25px;
+    /* border: 1px solid black; */
+}
+513.81
