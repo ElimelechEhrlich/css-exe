@@ -141,4 +141,70 @@ div {
     border-radius: 18.25px;
     /* border: 1px solid black; */
 }
-513.81
+
+#graph_line {
+    position: relative;
+    left: 100px;
+    border: 1px solid black;
+    width: 375.27130126953125px;
+    height: 224.70652770996094px;
+    top: 56.41px;
+    left: 25px;
+    border-radius: 27.38px;
+
+}
+
+#expense2_text {
+    position: absolute;
+    left: 16PX;
+    top: 12px;
+}
+
+#points3 {
+    position: absolute;
+    left: 160PX;
+    top: 12px;
+}
+
+#expense2 {
+    position: absolute;
+    left: 110PX;
+    top: 20px;
+}
+
+#rectangle {
+    position: absolute;
+    left: 115px;
+    top: 20px;
+}
+#gal1 {
+    position: absolute;
+    left: 15px;
+    top: 50px;
+}
+#gal2 {
+    position: absolute;
+    left: 15px;
+    top: 50px;
+}
+#month_names {
+    position: absolute;
+    left: 15px;
+    top: 90px;
+}
+
+p {
+    position: absolute;
+    position: relative;
+    position: static;
+    position: fixed;
+    position: sticky;
+    text-align: center;
+    margin: 0 auto;
+    background-position: center;
+    background-size: contain;
+    position: relative;
+    top: 200px;
+    direction: rtl;
+
+}
